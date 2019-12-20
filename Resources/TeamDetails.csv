@@ -1,31 +1,31 @@
-team_id,abbreviation,team,year_founded,yearactive_till,arena_capacity,team_logo_url
+team_id,abbreviation,team_name,year_founded,yearactive_till,arena_capacity,team_logo_url
 1610612737,ATL,Atlanta Hawks,1949,present,18729,Logo Not Found
 1610612738,BOS,Boston Celtics,1946,present,18624,Logo Not Found
-1610612739,CLE,Cleveland Cavaliers,1970,present,20562,//upload.wikimedia.org/wikipedia/en/thumb/4/4b/Cleveland_Cavaliers_logo.svg/100px-Cleveland_Cavaliers_logo.svg.png
-1610612740,NOP,New Orleans Pelicans,2002,present,18000,//upload.wikimedia.org/wikipedia/en/thumb/0/0d/New_Orleans_Pelicans_logo.svg/200px-New_Orleans_Pelicans_logo.svg.png
+1610612739,CLE,Cleveland Cavaliers,1970,present,20562,{'Cleveland Cavaliers': '//upload.wikimedia.org/wikipedia/en/thumb/4/4b/Cleveland_Cavaliers_logo.svg/100px-Cleveland_Cavaliers_logo.svg.png'}
+1610612740,NOP,New Orleans Pelicans,2002,present,18000,{'New Orleans Pelicans': '//upload.wikimedia.org/wikipedia/en/thumb/0/0d/New_Orleans_Pelicans_logo.svg/200px-New_Orleans_Pelicans_logo.svg.png'}
 1610612741,CHI,Chicago Bulls,1966,present,21711,Logo Not Found
 1610612742,DAL,Dallas Mavericks,1980,present,21041,Logo Not Found
 1610612743,DEN,Denver Nuggets,1976,present,19099,Logo Not Found
-1610612744,GSW,Golden State Warriors,1946,present,19596,//upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/200px-Golden_State_Warriors_logo.svg.png
+1610612744,GSW,Golden State Warriors,1946,present,19596,{'Golden State Warriors': '//upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/200px-Golden_State_Warriors_logo.svg.png'}
 1610612745,HOU,Houston Rockets,1967,present,18300,Logo Not Found
 1610612746,LAC,Los Angeles Clippers,1970,present,18997,Logo Not Found
-1610612747,LAL,Los Angeles Lakers,1948,present,18997,//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/200px-Los_Angeles_Lakers_logo.svg.png
+1610612747,LAL,Los Angeles Lakers,1948,present,18997,{'Los Angeles Lakers': '//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/200px-Los_Angeles_Lakers_logo.svg.png'}
 1610612748,MIA,Miami Heat,1988,present,19600,Logo Not Found
 1610612749,MIL,Milwaukee Bucks,1968,present,18717,Logo Not Found
-1610612750,MIN,Minnesota Timberwolves,1989,present,20500,//upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/200px-Minnesota_Timberwolves_logo.svg.png
-1610612751,BKN,Brooklyn Nets,1976,present,18103,//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/150px-Brooklyn_Nets_newlogo.svg.png
-1610612752,NYK,New York Knicks,1946,present,19763,//upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/200px-New_York_Knicks_logo.svg.png
-1610612753,ORL,Orlando Magic,1989,present,18500,//upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/200px-Orlando_Magic_logo.svg.png
+1610612750,MIN,Minnesota Timberwolves,1989,present,20500,{'Minnesota Timberwolves': '//upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/200px-Minnesota_Timberwolves_logo.svg.png'}
+1610612751,BKN,Brooklyn Nets,1976,present,18103,{'Brooklyn Nets': '//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/150px-Brooklyn_Nets_newlogo.svg.png'}
+1610612752,NYK,New York Knicks,1946,present,19763,{'New York Knicks': '//upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/200px-New_York_Knicks_logo.svg.png'}
+1610612753,ORL,Orlando Magic,1989,present,18500,{'Orlando Magic': '//upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/200px-Orlando_Magic_logo.svg.png'}
 1610612754,IND,Indiana Pacers,1976,present,18165,Logo Not Found
 1610612755,PHI,Philadelphia 76ers,1949,present,21600,Logo Not Found
-1610612756,PHX,Phoenix Suns,1968,present,18422,//upload.wikimedia.org/wikipedia/en/thumb/d/dc/Phoenix_Suns_logo.svg/200px-Phoenix_Suns_logo.svg.png
-1610612757,POR,Portland Trail Blazers,1970,present,19980,//upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/220px-Portland_Trail_Blazers_logo.svg.png
+1610612756,PHX,Phoenix Suns,1968,present,18422,{'Phoenix Suns': '//upload.wikimedia.org/wikipedia/en/thumb/d/dc/Phoenix_Suns_logo.svg/200px-Phoenix_Suns_logo.svg.png'}
+1610612757,POR,Portland Trail Blazers,1970,present,19980,{'Portland Trail Blazers': '//upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/220px-Portland_Trail_Blazers_logo.svg.png'}
 1610612758,SAC,Sacramento Kings,1948,present,17317,Logo Not Found
 1610612759,SAS,San Antonio Spurs,1976,present,18797,Logo Not Found
 1610612760,OKC,Oklahoma City Thunder,1967,present,18203,Logo Not Found
-1610612761,TOR,Toronto Raptors,1995,present,19800,//upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/200px-Toronto_Raptors_logo.svg.png
+1610612761,TOR,Toronto Raptors,1995,present,19800,{'Toronto Raptors': '//upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/200px-Toronto_Raptors_logo.svg.png'}
 1610612762,UTA,Utah Jazz,1974,present,19991,Logo Not Found
 1610612763,MEM,Memphis Grizzlies,1995,present,21165,Logo Not Found
-1610612764,WAS,Washington Wizards,1961,present,20173,//upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/200px-Washington_Wizards_logo.svg.png
+1610612764,WAS,Washington Wizards,1961,present,20173,{'Washington Wizards': '//upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/200px-Washington_Wizards_logo.svg.png'}
 1610612765,DET,Detroit Pistons,1948,present,22076,Logo Not Found
 1610612766,CHA,Charlotte Hornets,1988,present,18103,Logo Not Found
