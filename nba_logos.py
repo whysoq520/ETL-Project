@@ -21,7 +21,7 @@ def logo_grabber(team):
         logo_link = soup.find('a', {'class':'image'})
         if logo_link.img.get('src')[-12:-8] == 'logo':
             # return logo src
-            return logo_link.img.get('src')
+            return {team:logo_link.img.get('src')}
         else:
             return 'Logo Not Found'
     except:
