@@ -1,0 +1,64 @@
+id,MVP_First_Name,MVP_ Last_Name,Year,MVP_Position,MVP_team,MVP_nationality,MVP_status,team_id
+0,Bob,Pettit,1956,Forward,Saint Louis Hawks,US,Not reached Final,1610612737
+1,Bob,Cousy,1957,Guard,Boston Celtics,US,Champion,1610612738
+2,Bill,Russell,1958,Center,Boston Celtics,US,Vice-Champion,1610612738
+3,Bob,Pettit,1959,Forward,Saint Louis Hawks,US,Not reached Final,1610612737
+4,Wilt,Chamberlain,1960,Center,Philadelphia Warriors,US,Not reached Final,1610612744
+5,Bill,Russell,1961,Center,Boston Celtics,US,Champion,1610612738
+6,Bill,Russell,1962,Center,Boston Celtics,US,Champion,1610612738
+7,Bill,Russell,1963,Center,Boston Celtics,US,Champion,1610612738
+8,Oscar,Robertson,1964,Guard,Cincinnati Royals,US,Not reached Final,
+9,Bill,Russell,1965,Center,Boston Celtics,US,Champion,1610612738
+10,Wilt,Chamberlain,1966,Center,Philadelphia 76ers,US,Not reached Final,1610612755
+11,Wilt,Chamberlain,1967,Center,Philadelphia 76ers,US,Champion,1610612755
+12,Wilt,Chamberlain,1968,Center,Philadelphia 76ers,US,Not reached Final,1610612755
+13,West,Unseld,1969,Center,Baltimore Bullets,US,Not reached Final,
+14,Willis,Reed,1970,Center,New York Knicks,US,Champion,1610612752
+15,Lew,Alcindor,1971,Center,Milwaukee Bucks,US,Champion,1610612749
+16,Kareem,Abdul-Jabbar,1972,Center,Milwaukee Bucks,US,Not reached Final,1610612749
+17,Dave,Cowens,1973,Center,Boston Celtics,US,Not reached Final,1610612738
+18,Kareem,AJabbar,1974,Center,Milwaukee Bucks,US,Vice-Champion,1610612749
+19,Bob,McAdoo,1975,Center,Buffalo Braves,US,Not reached Final,
+20,Kareem,AJabbar,1976,Center,Los Angeles Lakers,US,Not reached Final,1610612747
+21,Kareem,A-Jabbar,1977,Center,Los Angeles Lakers,US,Not reached Final,1610612747
+22,Bill,Walton,1978,Center,Portland Trail Blazers,US,Not reached Final,1610612757
+23,Moses,Malone,1979,Center,Houston Rockets,US,Not reached Final,1610612745
+24,Kareem,AJabbar,1980,Center,Los Angeles Lakers,US,Champion,1610612747
+25,Julius,Erving,1981,Forward,Philadelphia 76ers,US,Not reached Final,1610612755
+26,Moses,Malone,1982,Center,Houston Rockets,US,Not reached Final,1610612745
+27,Moses,Malone,1983,Center,Philadelphia 76ers,US,Champion,1610612755
+28,Larry,Bird,1984,Forward,Boston Celtics,US,Champion,1610612738
+29,Larry,Bird,1985,Forward,Boston Celtics,US,Vice-Champion,1610612738
+30,Larry,Bird,1986,Forward,Boston Celtics,US,Champion,1610612738
+31,Magic,Johnson,1987,Guard,Los Angeles Lakers,US,Champion,1610612747
+32,Michael,Jordan,1988,Guard,Chicago Bulls,US,Not reached Final,1610612741
+33,Magic,Johnson,1989,Guard,Los Angeles Lakers,US,Vice-Champion,1610612747
+34,Magic,Johnson,1990,Guard,Los Angeles Lakers,US,Not reached Final,1610612747
+35,Michael,Jordan,1991,Guard,Chicago Bulls,US,Champion,1610612741
+36,Michael,Jordan,1992,Guard,Chicago Bulls,US,Champion,1610612741
+37,Charles,Barkley,1993,Forward,Phoenix Suns,US,Vice-Champion,1610612756
+38,Hakeem,Olajuwon,1994,Center,Houston Rockets,Nigeria,Champion,1610612745
+39,David,Robinson,1995,Center,San Antonio Spurs,US,Not reached Final,1610612759
+40,Michael,Jordan,1996,Guard,Chicago Bulls,US,Champion,1610612741
+41,Karl, Malone,1997,Forward,Utah Jazz,US,Vice-Champion,1610612762
+42,Michael,Jordan,1998,Guard,Chicago Bulls,US,Champion,1610612741
+43,Karl,Malone,1999,Forward,Utah Jazz,US,Not reached Final,1610612762
+44,Shaquille,O'Neal,2000,Center,Los Angeles Lakers,US,Champion,1610612747
+45,Allen,Iverson,2001,Guard,Philadelphia 76ers,US,Vice-Champion,1610612755
+46,Tim,Duncan,2002,Forward,San Antonio Spurs,US,Not reached Final,1610612759
+47,Tim,Duncan,2003,Forward,San Antonio Spurs,US,Champion,1610612759
+48,Kevin,Garnett,2004,Forward,Minnesota Timberwolves,US,Not reached Final,1610612750
+49,Steve,Nash,2005,Guard,Phoenix Suns,Canada,Not reached Final,1610612756
+50,Steve,Nash,2006,Guard,Phoenix Suns,Canada,Not reached Final,1610612756
+51,Dirk, Nowitzki,2007,Forward,Dallas Mavericks,Germany,Not reached Final,1610612742
+52,Kobe,Bryant,2008,Guard,Los Angeles Lakers,US,Vice-Champion,1610612747
+53,Lebron,James,2009,Forward,Cleveland Cavaliers,US,Not reached Final,1610612739
+54,Lebron,James,2010,Forward,Cleveland Cavaliers,US,Not reached Final,1610612739
+55,Derrick, Rose,2011,Guard,Chicago Bulls,US,Not reached Final,1610612741
+56,LeBron,James,2012,Forward,Miami Heat,US,Champion,1610612748
+57,LeBron,James,2013,Forward,Miami Heat,US,Champion,1610612748
+58,Kevin,Durant,2014,Forward,Oklahoma City Thunder,US,Not reached Final,1610612760
+59,Stephen,Curry,2015,Guard,Golden State Warriors,US,Champion,1610612744
+60,Stephen,Curry,2016,Guard,Golden State Warriors,US,Vice-Champion,1610612744
+61,Russell,Westbrook,2017,Guard,Oklahoma City Thunder,US,Not reached Final,1610612760
+62,James, Harden,2018,Guard,Houston Rockets,US,Not reached Final,1610612745

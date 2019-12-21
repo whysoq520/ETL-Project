@@ -1,4 +1,4 @@
-,First_name,Last_name,Year,Position,Team,Nationality,MVP_status,Team_id
+id,First_name,Last_name,Year,Position,Team,Nationality,MVP_status,Team_id
 0,Bob,Cousy,1957,Guard,Boston Celtics,US,Champion,1610612738
 1,Bill,Russell,1958,Center,Boston Celtics,US,Vice-Champion,1610612738
 2,Bill,Russell,1961,Center,Boston Celtics,US,Champion,1610612738
